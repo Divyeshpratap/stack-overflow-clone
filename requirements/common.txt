@@ -28,7 +28,7 @@ django-taggit==0.23.0
 
 # REST APIs
 # -------------------------------------
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 django-rest-swagger==2.1.2
 
 # LOGGING
